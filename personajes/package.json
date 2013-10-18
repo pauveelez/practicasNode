@@ -1,0 +1,8 @@
+{
+  "name": "personaje",
+  "version": "0.0.1",
+  "dependencies": {
+    "express.io": "~1.1.13",
+    "swig": "~1.1.0"
+  }
+}
